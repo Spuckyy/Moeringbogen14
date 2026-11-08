@@ -8,7 +8,7 @@ und suchst dir Stockwerk für Stockwerk den Weg zurück zu dem, was damals passi
 
 Sechs Kapitel, drei Enden. Keine Waffen, keine Kämpfe. Eine Taschenlampe, dein Gedächtnis und das Telefon.
 
-> **Early Access 0.3.9.** Das Spiel ist noch in Arbeit. Es kann Fehler enthalten, und Inhalte können sich ändern.
+> **Early Access 0.4.0.** Das Spiel ist noch in Arbeit. Es kann Fehler enthalten, und Inhalte können sich ändern.
 
 ## Inhaltshinweis
 
@@ -24,7 +24,7 @@ Diese Nummern sind echt und rund um die Uhr kostenlos erreichbar.
 ## Download und Start
 
 1. Lade unter [Releases](../../releases/latest) **beide** Teile herunter:
-   `Moeringbogen14_EarlyAccess_0.3.9.7z.001` und `Moeringbogen14_EarlyAccess_0.3.9.7z.002`.
+   `Moeringbogen14_EarlyAccess_0.4.0.7z.001` und `Moeringbogen14_EarlyAccess_0.4.0.7z.002`.
    GitHub erlaubt höchstens 2 GB pro Datei, deshalb ist das Spiel geteilt.
 2. Lege beide Dateien in denselben Ordner.
 3. Entpacke **`.7z.001`** mit [7-Zip](https://www.7-zip.org/) (kostenlos). Der zweite Teil wird dabei automatisch
@@ -58,6 +58,10 @@ Entwickelt und getestet mit einer NVIDIA GeForce RTX 4070 und 32 GB RAM. Mindest
 
 Gamepad wird unterstützt. Die ganze Steuerung, alle Funktionen und die Telefonnummern im Spiel stehen in der Anleitung.
 
+## Neu in 0.4.0
+
+- In Wohnung 803 klingelt beim ersten Betreten das Telefon. Wer abhebt, hört die Stimme der Mutter.
+
 ## Neu in 0.3.9
 
 - Absturz an der Schiebetür des Penny-Markts behoben
@@ -76,7 +80,8 @@ möglich, ein Screenshot. Nach einem Absturz liegt ein Bericht unter
 ## Credits
 
 Alle verwendeten Fremdinhalte (Fotos, Schriften, Geräusche, Modelle, Kartendaten) mit ihren Lizenzen stehen in
-[CREDITS.md](CREDITS.md). Die Stimmen sind synthetisch erzeugt (Qwen3-TTS, Apache-2.0). Keine echte Person wurde
-geklont.
+[CREDITS.md](CREDITS.md). Die Stimmen der Figuren sind synthetisch erzeugt (Qwen3-TTS, Apache-2.0). Der Anruf in Wohnung 803 ist mit der
+echten Stimme meiner Mutter gesprochen. Grundlage ist die einzige Sprachnachricht, die wir drei Kinder von ihr haben.
+Er ist mit Zustimmung von Ben und Natalie im Spiel. Bitte verwendet diese Aufnahme nicht weiter.
 
 © Julian Illek

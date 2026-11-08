@@ -132,8 +132,12 @@ Bus der Linie 109 (Mercedes eCitaro der HOCHBAHN) und U-Bahn DT5: eigene Modelle
 Lage der Ampeln, Überseering, Wesselyring und Parkplätze nach OpenStreetMap (Stand 2016/2026, © OpenStreetMap-Mitwirkende, ODbL).
 
 ## Sprachausgabe
-Alle Stimmen sind synthetisch – keine echte Person wurde geklont. Jede Figur bekam aus einer Textbeschreibung eine eigene Stimme
+Die Stimmen der Figuren sind synthetisch – keine fremde Person wurde geklont. Jede Figur bekam aus einer Textbeschreibung eine eigene Stimme
 (Qwen3-TTS-12Hz-1.7B-VoiceDesign), danach wurden alle Sätze der Figur mit dieser Stimme gesprochen (Qwen3-TTS-12Hz-1.7B-Base).
 - Qwen3-TTS (Alibaba Qwen Team, https://huggingface.co/Qwen) – Apache License 2.0
 - Qualitätsprüfung der Aufnahmen: faster-whisper (MIT) mit OpenAI Whisper „small“ (MIT)
 Erzeugt mit `Tools/voice` (collect.py → cast.py/design.py → speak_qwen.py → import_voice.py).
+
+### Die Stimme der Mutter
+Der Anruf in Wohnung 803 ist mit der echten Stimme der Mutter des Autors gesprochen. Grundlage ist die einzige Sprachnachricht, die ihre drei Kinder von ihr haben. Die Worte hat der Autor geschrieben; Stimme und Klang wurden daraus mit Qwen3-TTS (Apache-2.0) und Seed-VC (GPL-3.0, https://github.com/Plachtaa/seed-vc) erzeugt. Mit Zustimmung von Julian, Ben und Natalie. Diese Aufnahme darf nicht weiterverwendet werden.
+
