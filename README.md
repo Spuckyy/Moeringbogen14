@@ -8,7 +8,7 @@ und suchst dir Stockwerk für Stockwerk den Weg zurück zu dem, was damals passi
 
 Sechs Kapitel, drei Enden. Keine Waffen, keine Kämpfe. Eine Taschenlampe, dein Gedächtnis und das Telefon.
 
-> **Early Access 0.4.0.** Das Spiel ist noch in Arbeit. Es kann Fehler enthalten, und Inhalte können sich ändern.
+> **Early Access 0.4.1.** Das Spiel ist noch in Arbeit. Es kann Fehler enthalten, und Inhalte können sich ändern.
 
 ## Inhaltshinweis
 
@@ -24,7 +24,7 @@ Diese Nummern sind echt und rund um die Uhr kostenlos erreichbar.
 ## Download und Start
 
 1. Lade unter [Releases](../../releases/latest) **beide** Teile herunter:
-   `Moeringbogen14_EarlyAccess_0.4.0.7z.001` und `Moeringbogen14_EarlyAccess_0.4.0.7z.002`.
+   `Moeringbogen14_EarlyAccess_0.4.1.7z.001` und `Moeringbogen14_EarlyAccess_0.4.1.7z.002`.
    GitHub erlaubt höchstens 2 GB pro Datei, deshalb ist das Spiel geteilt.
 2. Lege beide Dateien in denselben Ordner.
 3. Entpacke **`.7z.001`** mit [7-Zip](https://www.7-zip.org/) (kostenlos). Der zweite Teil wird dabei automatisch
@@ -57,6 +57,15 @@ Entwickelt und getestet mit einer NVIDIA GeForce RTX 4070 und 32 GB RAM. Mindest
 | Schnellspeichern / -laden | F5 / F9 |
 
 Gamepad wird unterstützt. Die ganze Steuerung, alle Funktionen und die Telefonnummern im Spiel stehen in der Anleitung.
+
+## Neu in 0.4.1
+
+- Neue Nebenaufgaben: „Die Dreier“ (die Wohnungen mit unserem Grundriss) und „Die Flasche“
+- Acht neue Telefonnummern und Anrufe: Nachbarn, Hausverwaltung, der Gutachter, Oma. Die Nummern stehen im Spiel auf Zetteln und Karten
+- 13 neue Dokumente
+- Erinnerungsstücke lassen sich benutzen: Walkman, Gameboy, Jo-Jo, Tamagotchi, Milchdeckel
+- Mit dem Fahrschein mit der 109 bis zur Endhaltestelle fahren, die Karnickel am Wesselyring, der Sicherungsautomat im Keller, die Zuflucht bei Frau Swoboda
+- Neue Stimmen für alle neuen Figuren
 
 ## Neu in 0.4.0
 

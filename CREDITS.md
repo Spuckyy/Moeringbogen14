@@ -56,6 +56,7 @@ Texturen: leafy_grass, park_sand, gravel_floor, concrete_pavers_02, brown_mud_le
 ## Selbst erzeugte Klänge
 
 SW_Elevator_AlarmBell (Aufzug-Alarmklingel) und SW_Train_PassLoop (S-Bahn) wurden mit FFmpeg synthetisiert, keine fremden Aufnahmen.
+SW_Walkman_Tape (Bandrauschen aus dem Kopfhörer), SW_Dog_Bark (Hund) und SW_Bus_Ride (Bus 109) wurden mit Python/numpy synthetisiert, keine fremden Aufnahmen.
 ## Küche (Poly Haven, CC0)
 
 Texturen: granite_tile_03, marble_01, rounded_square_tiled_wall
